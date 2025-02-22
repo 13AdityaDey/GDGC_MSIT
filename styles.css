@@ -1244,7 +1244,7 @@ nav li a:hover{
     
     #wrapper .cards-wrapper {
         grid-auto-columns: calc(100%);
-        width: 72%;
+        width: 59%;
     }
 
     .card{
@@ -1274,7 +1274,7 @@ nav li a:hover{
     }    
 
     .right-arrow{
-        right: 12%;
+        right: 1%;
     }
 }
 
